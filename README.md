@@ -7,7 +7,17 @@ Ce repo sert de stockage à mon projet de site pour le concours "Course en cours
 
 ## les épreuves sont: 
 
-> wip
+### Course en ligne:
+
+Cette épreuve consiste à faire une course de 15 mètres en ligne droite. Le bolide qui arrive le premier à gagné!
+
+### épreuve anti-patinage: 
+
+Il consiste à tester l'adhérence des pneus à la route. 
+
+### épreuve écologique:
+
+Concours entre tout les véhicules: celui qui consomme le moins à gagné!
 
 # première mission: 
 
